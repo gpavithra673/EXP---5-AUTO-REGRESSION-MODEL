@@ -14,7 +14,7 @@ Implementation of Auto Regression Model using Python
 7) Calculate Mean Squared Error (MSE).Plot the test data and predictions.
 
 ## PROGRAM:
-PYTHON
+```
 import pandas as pd
 import numpy as np
 from matplotlib import pyplot
@@ -47,7 +47,7 @@ mse**0.5
 X_test.plot()
 pred.plot()
 
-
+```
 ## OUTPUT:
 
 ### GIVEN DATA 
